@@ -26,4 +26,4 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
-![New]([https://user-images.githubusercontent.com/40789486/83999923-5a5ad900-a981-11ea-8b79-1c918da0e279.png](https://insidesherpa.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_LCzgDDTPoMuTbz724_1647503724479_completion_certificate.pdf))
+![New](https://i.imgur.com/rwIasXA.png)
